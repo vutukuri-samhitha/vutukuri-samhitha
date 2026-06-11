@@ -1,7 +1,5 @@
 <div align="center">
 
-# VUTUKURI SAMHITHA REDDY
-
 <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=34&pause=1200&color=00F7FF&center=true&vCenter=true&width=1300&lines=Senior+.NET+Backend+Engineer;Microsoft+Azure+Cloud+Developer;Microservices+Architecture+Specialist;Cloud-Native+Application+Engineer;RESTful+API+Development+Expert;DevOps+%26+CI%2FCD+Engineer;Building+Scalable+Enterprise+Applications" />
 
 <br><br>

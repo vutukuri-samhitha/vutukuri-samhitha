@@ -2,7 +2,7 @@
 
 # VUTUKURI SAMHITHA REDDY
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=34&pause=1200&color=00F7FF&center=true&vCenter=true&width=1300&lines=Senior+.NET+Backend+Engineer;Microsoft+Azure+Cloud+Developer;Microservices+Architecture+Specialist;Cloud-Native+Application+Engineer;RESTful+API+Development+Expert;DevOps+%26+CI%2FCD+Enthusiast;Building+Scalable+Enterprise+Applications" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=34&pause=1200&color=00F7FF&center=true&vCenter=true&width=1300&lines=Senior+.NET+Backend+Engineer;Microsoft+Azure+Cloud+Developer;Microservices+Architecture+Specialist;Cloud-Native+Application+Engineer;RESTful+API+Development+Expert;DevOps+%26+CI%2FCD+Engineer;Building+Scalable+Enterprise+Applications" />
 
 <br><br>
 
@@ -15,7 +15,7 @@
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:0F2027&height=200&section=header&text=Engineering%20Scalable%20Cloud%20Applications%20For%20Modern%20Enterprises&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:0F2027&height=220&section=header&text=Azure%20Cloud%20%26%20.NET%20Engineering&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
 
 </div>
 
@@ -23,22 +23,22 @@
 
 # 🏛️ Software Engineering Mission
 
-I am passionate about building modern cloud-native applications that are scalable, secure, reliable, and maintainable.
+I am passionate about building scalable, secure, and cloud-native enterprise applications that solve real business problems.
 
-My focus extends beyond writing code.
+My focus extends beyond coding.
 
 I enjoy designing complete software ecosystems that combine:
 
-* Backend Engineering
-* Cloud Computing
-* Microservices Architecture
-* RESTful API Development
-* DevOps Automation
-* Distributed Systems
-* Event-Driven Architectures
-* Enterprise Application Development
-
-The goal is always simple:
+- Backend Engineering
+- Cloud Computing
+- Microservices Architecture
+- RESTful API Development
+- DevOps Automation
+- Distributed Systems
+- Event-Driven Architectures
+- Enterprise Software Design
+- Cloud Security
+- Performance Engineering
 
 ### Transform Business Requirements Into Scalable Digital Solutions.
 
@@ -46,33 +46,34 @@ The goal is always simple:
 
 # 🚀 About Me
 
-Software Engineer with 4+ years of experience designing and delivering backend and cloud-based applications using .NET technologies and Microsoft Azure.
+Software Engineer with 4+ years of experience designing, developing, and delivering cloud-based and enterprise-grade applications using .NET technologies and Microsoft Azure.
 
-Areas I enjoy working in:
+### Areas of Interest
 
-* Backend Engineering
-* ASP.NET Core Development
-* Microservices Architecture
-* Cloud Engineering
-* Azure Services
-* API Development
-* DevOps Automation
-* Distributed Systems
-* Event-Driven Applications
-* Database Optimization
-* Application Security
-* Enterprise Software Development
+- ASP.NET Core Development
+- Microservices Engineering
+- Cloud-Native Applications
+- Azure Services
+- REST API Development
+- Event-Driven Systems
+- DevOps & Automation
+- Application Security
+- Database Engineering
+- Distributed Computing
+- Enterprise Architecture
+- Performance Optimization
 
 ---
 
 # ⚡ Core Expertise
 
-| Backend Engineering   | Cloud Platforms    | Architecture & DevOps | Data & Analytics    |
-| --------------------- | ------------------ | --------------------- | ------------------- |
-| ASP.NET Core          | Microsoft Azure    | Microservices         | SQL Server          |
-| REST APIs             | Azure Functions    | CI/CD Pipelines       | PostgreSQL          |
-| Entity Framework Core | Azure App Services | Docker                | Power BI            |
-| SignalR               | Azure DevOps       | Kubernetes            | Reporting Solutions |
+| Backend Engineering | Cloud Platforms | DevOps & Automation | Data & Analytics |
+|---------------------|----------------|---------------------|------------------|
+| ASP.NET Core | Microsoft Azure | Azure DevOps | SQL Server |
+| REST APIs | Azure Functions | CI/CD Pipelines | PostgreSQL |
+| Entity Framework Core | App Services | GitHub Actions | Power BI |
+| SignalR | Cosmos DB | Docker | SSRS |
+| Web API | Azure SQL | Kubernetes | Reporting Solutions |
 
 ---
 
@@ -81,10 +82,11 @@ Areas I enjoy working in:
 <div align="center">
 
 ![](https://img.shields.io/badge/C-00599C?style=for-the-badge)
-![](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
-![](https://img.shields.io/badge/C%23-239120?style=for-the-badge\&logo=csharp\&logoColor=white)
-![](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge\&logo=dotnet\&logoColor=white)
-![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![](https://img.shields.io/badge/SQL-003B57?style=for-the-badge)
 
 </div>
 
@@ -96,15 +98,104 @@ Areas I enjoy working in:
 
 ![](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge)
 ![](https://img.shields.io/badge/Entity_Framework_Core-6DB33F?style=for-the-badge)
-![](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge\&logo=react\&logoColor=black)
-![](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge\&logo=angular\&logoColor=white)
-![](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge\&logo=microsoftazure\&logoColor=white)
+![](https://img.shields.io/badge/Web_API-512BD4?style=for-the-badge)
+![](https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge)
+![](https://img.shields.io/badge/SignalR-512BD4?style=for-the-badge)
+![](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge)
-![](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge)
-![](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge\&logo=kubernetes\&logoColor=white)
-![](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge\&logo=apachekafka\&logoColor=white)
+![](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+</div>
+
+---
+
+# ☁️ Azure Cloud Expertise
+
+| Azure Service | Expertise |
+|---------------|------------|
+| Azure App Services | Enterprise Application Hosting |
+| Azure Functions | Serverless Architecture |
+| Azure SQL Database | Managed Relational Databases |
+| Cosmos DB | Distributed NoSQL Applications |
+| Azure DevOps | Release Automation |
+| Azure Monitor | Observability |
+| Azure Storage | Cloud Storage Solutions |
+| Azure Key Vault | Secret Management |
+| Azure Active Directory | Identity & Access Management |
+| Application Insights | Monitoring & Diagnostics |
+
+---
+
+# 🏗️ System Design Expertise
+
+### Architecture Patterns
+
+- Microservices Architecture
+- Event-Driven Systems
+- Layered Architecture
+- Clean Architecture
+- CQRS Pattern
+- Domain Driven Design
+- API Gateway Pattern
+- Distributed Caching
+- Multi-Tenant Applications
+- High Availability Systems
+
+### Engineering Principles
+
+- Scalability
+- Reliability
+- Maintainability
+- Security
+- Observability
+- Performance Optimization
+
+---
+
+# 🔐 Security Engineering
+
+### Authentication & Authorization
+
+- OAuth 2.0
+- OpenID Connect
+- JWT Authentication
+- Azure Active Directory
+- RBAC Implementation
+- API Access Control
+
+### Secure Development
+
+- Secret Management
+- Secure API Design
+- Secure CI/CD Pipelines
+- Audit Logging
+- Data Protection
+- Environment Isolation
+
+---
+
+# 🚀 DevOps & Automation
+
+<div align="center">
+
+![](https://img.shields.io/badge/Azure_DevOps-CI/CD-0078D7?style=for-the-badge)
+
+![](https://img.shields.io/badge/Jenkins-Automation-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+
+![](https://img.shields.io/badge/GitHub_Actions-Workflows-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+![](https://img.shields.io/badge/Docker-Containers-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+![](https://img.shields.io/badge/Kubernetes-Orchestration-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 </div>
 
@@ -113,65 +204,87 @@ Areas I enjoy working in:
 # 🌟 Flagship Engineering Projects
 
 ## ☁️ CloudScale
+### Azure-Native Enterprise Platform
 
-### Azure-Native Enterprise Application Platform
-
-Designed scalable cloud-native backend services using ASP.NET Core, Azure Functions, Azure SQL, and Azure App Services with enterprise-grade security and monitoring.
+Built cloud-native applications using ASP.NET Core, Azure Functions, Azure SQL, Cosmos DB, and Azure App Services supporting scalable business operations.
 
 ---
 
 ## 🔗 ServiceMesh
+### Distributed Microservices Platform
 
-### Distributed Microservices Ecosystem
-
-Built modular microservices architecture supporting secure communication, service discovery, fault tolerance, and scalable deployment strategies.
+Developed secure microservices architecture with service communication, fault tolerance, monitoring, and deployment automation.
 
 ---
 
 ## ⚡ EventFlow
+### Event-Driven Processing System
 
-### Real-Time Event Processing Platform
-
-Implemented event-driven architecture using Apache Kafka enabling asynchronous communication and near real-time business processing.
+Implemented Kafka-based event streaming architecture supporting asynchronous processing and near real-time workflows.
 
 ---
 
 ## 🚀 DeployX
-
 ### DevOps Automation Framework
 
-Automated build, testing, deployment, and release management workflows using Azure DevOps, Jenkins, Docker, and CI/CD pipelines.
+Automated build, test, deployment, and infrastructure provisioning processes using Azure DevOps, GitHub Actions, Docker, and Kubernetes.
 
 ---
 
 ## 📊 InsightHub
+### Analytics & Reporting Platform
 
-### Business Analytics & Reporting Platform
-
-Developed reporting and analytics solutions using Power BI, SSRS, SQL Server, and PostgreSQL to provide actionable business insights.
+Created Power BI dashboards and SSRS reports providing operational insights and executive-level reporting.
 
 ---
 
 ## 🔒 SecureAPI
+### Enterprise Security Framework
 
-### Enterprise Identity & Access Platform
+Implemented OAuth 2.0, JWT authentication, RBAC authorization, and API security best practices for enterprise systems.
 
-Implemented OAuth 2.0, JWT authentication, API security controls, and role-based authorization for enterprise applications.
+---
+
+# 💼 Professional Experience
+
+## Software Engineer
+### Sagarsoft Inc. | Aug 2024 – Present
+
+- Developed scalable backend services using .NET Core.
+- Improved PostgreSQL performance through schema optimization and indexing.
+- Implemented AWS ECS, Lambda, and SQS solutions.
+- Applied OAuth 2.0 and JWT authentication.
+- Automated infrastructure using Terraform and GitHub Actions.
+- Refactored legacy systems into microservices.
+- Enhanced observability and monitoring.
+
+---
+
+## .NET Developer
+### Aditya Birla Capital Limited | Jul 2021 – Jan 2024
+
+- Built ASP.NET Core microservices and Azure Functions.
+- Developed secure REST APIs.
+- Migrated enterprise applications to Azure.
+- Created CI/CD pipelines using Azure DevOps and Jenkins.
+- Implemented Apache Kafka integrations.
+- Optimized SQL Server and PostgreSQL databases.
+- Developed Power BI and SSRS reporting solutions.
 
 ---
 
 # 📊 Technology Domains
 
-| Domain              | Focus                   |
-| ------------------- | ----------------------- |
-| Backend Engineering | ASP.NET Core & APIs     |
-| Cloud Computing     | Microsoft Azure         |
-| Microservices       | Distributed Systems     |
-| DevOps              | CI/CD Automation        |
-| Event Processing    | Kafka                   |
-| Databases           | SQL Server & PostgreSQL |
-| Analytics           | Power BI & SSRS         |
-| Security            | OAuth 2.0 & JWT         |
+| Domain | Focus |
+|----------|----------|
+| Backend Engineering | ASP.NET Core & Web APIs |
+| Cloud Engineering | Microsoft Azure |
+| Microservices | Distributed Systems |
+| DevOps | Automation & CI/CD |
+| Event Processing | Apache Kafka |
+| Databases | SQL Server & PostgreSQL |
+| Analytics | Power BI & SSRS |
+| Security | OAuth 2.0 & JWT |
 
 ---
 
@@ -179,15 +292,35 @@ Implemented OAuth 2.0, JWT authentication, API security controls, and role-based
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight\&hide_border=true\&bg_color=0D1117)
+![](https://github-readme-stats.vercel.app/api?username=vutukuri-samhitha&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
 
 <br>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME\&theme=tokyonight\&hide_border=true\&background=0D1117)
+![](https://github-readme-streak-stats.herokuapp.com/?user=vutukuri-samhitha&theme=tokyonight&hide_border=true&background=0D1117)
 
 <br>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=tokyonight\&hide_border=true\&bg_color=0D1117)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=vutukuri-samhitha&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
+
+</div>
+
+---
+
+# 🏆 GitHub Achievements
+
+<div align="center">
+
+![](https://github-profile-trophy.vercel.app/?username=vutukuri-samhitha&theme=tokyonight&no-frame=true&row=1&column=7)
+
+</div>
+
+---
+
+# 📈 Contribution Activity
+
+<div align="center">
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=vutukuri-samhitha&theme=tokyo-night)
 
 </div>
 
@@ -196,53 +329,51 @@ Implemented OAuth 2.0, JWT authentication, API security controls, and role-based
 # 🎓 Education
 
 ### Master's in Computer Science
-
 Rivier University — New Hampshire, USA
 
 ### Bachelor's in Computer Science
-
 Shreyas Institute of Engineering & Technology — India
 
 ---
 
 # 🏆 Certifications
 
-* Microsoft Certified: Azure Fundamentals (AZ-900)
-* Azure Developer Associate Certification (In Progress)
+- Microsoft Certified: Azure Fundamentals (AZ-900)
+- Azure Developer Associate Certification (In Progress)
 
 ---
 
 # 🔬 Current Focus Areas
 
-* Cloud-Native Application Development
-* Microsoft Azure Services
-* Microservices Architecture
-* REST API Engineering
-* DevOps Automation
-* CI/CD Best Practices
-* Event-Driven Systems
-* Containerization
-* Distributed Computing
-* Enterprise Software Design
+- Cloud Native Applications
+- Azure Architecture
+- Microservices Engineering
+- Distributed Systems
+- DevOps Automation
+- Event-Driven Architecture
+- Enterprise APIs
+- Containerization
+- Kubernetes
+- Software Architecture
 
 ---
 
 # 🌍 Engineering Philosophy
 
-I believe great software engineering is not simply about building applications.
+I believe software engineering is about building reliable systems that create business value.
 
-It is about creating systems that are:
+Great software should be:
 
-* Scalable
-* Secure
-* Reliable
-* Maintainable
-* Observable
-* Business Driven
+- Scalable
+- Secure
+- Reliable
+- Maintainable
+- Observable
+- Business Focused
 
 The objective is not simply to write code.
 
-The objective is to build technology solutions that enable innovation, efficiency, and long-term business growth.
+The objective is to engineer solutions that enable innovation, growth, and operational excellence.
 
 ---
 
@@ -250,9 +381,9 @@ The objective is to build technology solutions that enable innovation, efficienc
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/vutukurisamhithareddy)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vutukurisamhithareddy)
 
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:vutukurisamhitha2@gmail.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vutukurisamhitha2@gmail.com)
 
 </div>
 
@@ -263,3 +394,4 @@ The objective is to build technology solutions that enable innovation, efficienc
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=150&section=footer&text=Where%20Cloud%20Engineering%20Meets%20Enterprise%20Innovation&fontSize=24&fontColor=ffffff&animation=fadeIn" />
 
 </div>
+```

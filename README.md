@@ -15,7 +15,9 @@
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:0F2027&height=220&section=header&text=Azure%20Cloud%20%26%20.NET%20Engineering&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:243B55,100:141E30&height=220&section=header&text=VUTUKURI%20SAMHITHA%20REDDY&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+</p>
 
 </div>
 
